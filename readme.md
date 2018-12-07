@@ -1,4 +1,4 @@
-# Hangouts Chat code samples
+# Hangouts Chat Bot
 
 This repository contains the code samples for
 [Hangouts Chat bots](https://developers.google.com/hangouts/chat/).
